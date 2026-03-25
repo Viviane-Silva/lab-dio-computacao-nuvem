@@ -4,7 +4,7 @@ Este repositório contém um resumo das lições aprendidas durante o desenvolvi
 
 A **computação em nuvem** é um modelo que permite acessar, via internet, recursos como **armazenamento, servidores, bancos de dados, redes e softwares**, sem precisar ter tudo instalado no seu próprio computador.
 
----
+----
 
 ## Vantagens da Computação em Nuvem
 
